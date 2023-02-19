@@ -1,0 +1,20 @@
+<div class="col">
+                <nav aria-label="Page navigation example">
+                    <ul class="pagination w-100 my-5 bg-dark overflow-auto">
+                      <li class="page-item"><img class="p-5 bg-dark" src="./navslider1.webp" alt=""></li>
+                      <li class="page-item"><img class="p-5 bg-dark" src="./navslider2.jpeg" alt=""></li>
+                      <li class="page-item">
+                        <img class="p-5 bg-dark" src="./navslider3.jpeg" alt="">
+                      </li>
+                      <li class="page-item">
+                        <img class="p-5 bg-dark" src="./navslider3.jpeg" alt="">
+                      </li>
+                      <li class="page-item">
+                        <img class="p-5 bg-dark" src="./navslider3.jpeg" alt="">
+                      </li>
+                      <li class="page-item">
+                        <a class="page-link" href="#">Next</a>
+                      </li>
+                    </ul>
+                  </nav>
+            </div>
